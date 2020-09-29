@@ -1,3 +1,5 @@
+PubControllers:
+
 
 BeerPurchaseController: Get("/beerSale") Get("beerSale//{sale_id}") Post("/beerSale") Delete("/beerSale/{sale_id}")
 PlaceManageController: Get("/visitors") Get("visitors//{visitorId}") Post("/visitors") Delete("/visitors/{visitorId}")
